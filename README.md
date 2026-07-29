@@ -10,7 +10,7 @@ My work:
 
  
 - 😎 Cool projects
-  - [msp430-game](https://github.com/dendo1234/msp430-game) - 2D platformer for a 16 MHz, 8 KiB RAM microcontroller
+  - [msp430-game](https://github.com/dendo1234/msp430-game) - 2D platformer for a 25 MHz, 8 KiB RAM microcontroller
   - [mips-assembler](https://github.com/gabrielbfranca/trabalho-oac) - a MIPS assembler written in MIPS assembly
 
 and much more to come 👀 ...
