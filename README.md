@@ -3,10 +3,11 @@
 
 ---
 
-My work:
+Featured work:
   
 - Projects I've made to solve my own problems (but you can use them too)
   - [video player](https://github.com/dendo1234/video_player) - it plays all the audios streams in a file at the same time
+  - [tracker](https://github.com/dendo1234/tracker) - tracks the foreground window on Windows
 
  
 - 😎 Cool projects
